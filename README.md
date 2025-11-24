@@ -17,7 +17,8 @@ sudo apt install build-essential cmake libx11-dev
 ## Build
 
 ```bash
-cd /home/admax/Projects/snap
+git clone https://github.com/syndanar/wmtiler.git
+cd wmtiler
 cmake -S . -B build
 cmake --build build
 ```
