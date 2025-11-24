@@ -1,0 +1,3 @@
+/home/admax/Projects/snap/build/CMakeFiles/wmtiler.dir
+/home/admax/Projects/snap/build/CMakeFiles/edit_cache.dir
+/home/admax/Projects/snap/build/CMakeFiles/rebuild_cache.dir
